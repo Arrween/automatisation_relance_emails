@@ -18,4 +18,4 @@ Automatiser l'envoi d'un email tous les 2 jours via **Google Apps Script** pour 
 
 - `sendRecurringEmail.gs` : script principal à coller dans votre éditeur Google Apps Script.
 - `email_template.txt` : exemple de contenu d'email.
-- `README.md` : ce fichier.
+- `rapport.pdf` : court rapport détaillant le projet.
