@@ -1,6 +1,6 @@
 # automatisation_relance_emails
 
-# 📬 Automatisation de relance administrative (Titre de séjour)
+# 📬 Automatisation de relance par Gmail
 
 Ce projet vise à automatiser l'envoi récurrent d'un email de relance à une administration (dans ce cas, une sous-préfecture), dans le cadre d’un dossier de titre de séjour en attente de traitement.
 
